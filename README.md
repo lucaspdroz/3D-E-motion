@@ -1,4 +1,4 @@
-# 3D-E-motion
+# 3D E-motion
 Criação e animação de objetos em canvas no P5.js
 
 Você pode ver meu trabalho aqui 😉 :
